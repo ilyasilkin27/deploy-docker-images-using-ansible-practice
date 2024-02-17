@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/ilyasilkin27/devops-for-programmers-project-76/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ilyasilkin27/devops-for-programmers-project-76/actions)
 [![Ru](https://img.shields.io/badge/Rus-blue)](README_ru.md)
-[App](https://ilyasilkin.ru/)
+[![App](https://img.shields.io/badge/App-purple)](https://ilyasilkin.ru/)
 
 ## Description:
 
