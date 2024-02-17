@@ -12,23 +12,26 @@
 
 ### Запуск приложения пошагово:
 
-1. 
-``bash
+1.
+
+```bash
 make installRoles
 ```
 
-2. 
-``bash
+2.
+
+```bash
 make installDependencies
 ```
 
 3.
-``bash
+
+```bash
 make installRedmine
 ```
 
 ### Запуск приложения с помощью одной команды:
 
-``bash
+```bash
 make deploy
 ```
